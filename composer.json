@@ -9,10 +9,12 @@
             "email": "1372886270@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+		"php": ">=7.1"
+	},
 	"autoload":{
 		"psr-4": {
-			"Payment\\": "src/"
+			"payment\\": "src/"
 		}
 	}
 }
