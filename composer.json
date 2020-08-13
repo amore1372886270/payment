@@ -1,0 +1,13 @@
+{
+    "name": "administrator/composer",
+    "description": "第三方支付",
+    "type": "library",
+    "license": "php",
+    "authors": [
+        {
+            "name": "YXN",
+            "email": "1372886270@qq.com"
+        }
+    ],
+    "require": {}
+}
