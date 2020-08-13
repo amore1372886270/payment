@@ -1,5 +1,5 @@
 {
-    "name": "administrator/composer",
+    "name": "aony/payment",
     "description": "第三方支付",
     "type": "library",
     "license": "php",
