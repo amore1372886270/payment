@@ -2,7 +2,7 @@
     "name": "aony/payment",
     "description": "第三方支付",
     "type": "library",
-    "license": "Aony-1.0",
+    "proprietary": "Aony-1.0",
     "authors": [
         {
             "name": "YXN",
